@@ -1,0 +1,1 @@
+"""AI Act Article definitions."""
